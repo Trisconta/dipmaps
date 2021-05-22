@@ -1,0 +1,2 @@
+# dipmaps
+Diplomacy maps
